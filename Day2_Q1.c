@@ -1,4 +1,4 @@
-// Q2:- delete an Element from an Array.
+// Q1:- delete an Element from an Array.
 #include <stdio.h>
 int main() {
 int arr[100], n, position, i;
@@ -23,4 +23,5 @@ int arr[100], n, position, i;
                 printf("%d ", arr[i]);
             printf("\n");
             return 0;
+
         }
