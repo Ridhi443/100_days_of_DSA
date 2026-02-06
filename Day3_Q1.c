@@ -1,3 +1,4 @@
+// Linear Search with Comparison Count.
 #include <stdio.h>
 
 int main() {
@@ -29,3 +30,4 @@ int main() {
 
     return 0;
 }
+
